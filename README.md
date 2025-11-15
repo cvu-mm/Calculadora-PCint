@@ -6,7 +6,7 @@ Este proyecto contiene una calculadora desarrollada para PCint con funciones ext
 
 Implementa una calculadora multifuncional que puede realizar:
 
-✔ Operaciones básicas
+Operaciones básicas
 
 Suma
 
@@ -16,7 +16,7 @@ Multiplicación
 
 División
 
-✔ Cálculo de áreas, radios y diámetros
+Cálculo de áreas, radios y diámetros
 
 Figuras incluidas:
 
@@ -28,7 +28,7 @@ Triángulo
 
 Trapecio
 
-✔ Estadística básica
+Estadística básica
 
 Media
 
@@ -36,7 +36,7 @@ Mediana
 
 Moda
 
-✔ Sucesión de Fibonacci
+Sucesión de Fibonacci
 
 Ingresa un número inicial
 
@@ -88,14 +88,15 @@ Se ajustó la lógica para validar pertenencia real
 Se construyó un algoritmo personalizado
 Se agregaron verificadores de entrada antes de cada operación
 Se implementaron validaciones manuales
-Autores
 
-CRUZ MIRANDA VALERIA
+Autores:
 
-DELGADO MARTÍNEZ EMILIANO
+Cruz Miranda Valeria
 
-RIVERA GARCÍA ILSE MARIEL 
+Delgado Martínez Emiliano
 
-HERNÁNDEZ LONGINO EDGAR 
+Rivera García Ilse Mariel 
 
-JUÁREZ GARCÍA FERNANDO
+Hernández Longino Edgar 
+
+Juárez García Fernando
