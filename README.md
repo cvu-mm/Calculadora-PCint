@@ -77,17 +77,25 @@ Desarrollar pensamiento lógico
 
 Crear un programa grande, modular y documentado
 
-Dificultades encontradas y soluciones:
-Problema	                                            Solución
-PCint no soporta ciertas funciones nativas	  Se implementaron validaciones manuales
-Manejo de errores y entradas inválidas	      Se agregaron verificadores de entrada antes de cada operación
-Cálculo de moda sin arreglos automáticos	    Se construyó un algoritmo personalizado
-Evitar que Fibonacci generara valores incorrectos	Se ajustó la lógica para validar pertenencia real
+Dificultades encontradas y soluciones
+Problemas:	                                            
+PCint no soporta ciertas funciones nativas	 
+Manejo de errores y entradas inválidas	      
+Cálculo de moda sin arreglos automáticos	   
+Evitar que Fibonacci generara valores incorrectos	
+Solución:
+Se ajustó la lógica para validar pertenencia real
+Se construyó un algoritmo personalizado
+Se agregaron verificadores de entrada antes de cada operación
+Se implementaron validaciones manuales
 Autores
 
 CRUZ MIRANDA VALERIA
 
 DELGADO MARTÍNEZ EMILIANO
+
 RIVERA GARCÍA ILSE MARIEL 
+
 HERNÁNDEZ LONGINO EDGAR 
+
 JUÁREZ GARCÍA FERNANDO
